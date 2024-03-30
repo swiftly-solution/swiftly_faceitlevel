@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/downloads/swiftly-solution/swiftly_shop/total" alt="Downloads"> 
-  <img src="https://img.shields.io/github/contributors/swiftly-solution/swiftly_shop?color=dark-green" alt="Contributors">
-  <img src="https://img.shields.io/github/issues/swiftly-solution/swiftly_shop" alt="Issues">
-  <img src="https://img.shields.io/github/license/swiftly-solution/swiftly_shop" alt="License">
+  <img src="https://img.shields.io/github/downloads/swiftly-solution/swiftly_faceitlevel/total" alt="Downloads"> 
+  <img src="https://img.shields.io/github/contributors/swiftly-solution/swiftly_faceitlevel?color=dark-green" alt="Contributors">
+  <img src="https://img.shields.io/github/issues/swiftly-solution/swiftly_faceitlevel" alt="Issues">
+  <img src="https://img.shields.io/github/license/swiftly-solution/swiftly_faceitlevel" alt="License">
 </p>
 
 ---
