@@ -6,7 +6,7 @@
   <h3 align="center">[Swiftly] Faceit Level</h3>
 
   <p align="center">
-    A simple plugin for Swiftly that checks the Faceit ELO of an player.
+    A simple plugin for Swiftly that checks the Faceit ELO of an player and kicks him based on the elo requirements.
     <br/>
   </p>
 </p>
